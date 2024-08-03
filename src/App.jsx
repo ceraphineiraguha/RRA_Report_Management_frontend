@@ -21,7 +21,7 @@ import CreateUser from "./components/admin/pages/CreateUser.jsx";
 import Dipartiment_Layout from "./components/headofdepartment/Dipartiment_Layout.jsx";
 import DipartmentReport from "./components/headofdepartment/pages/DipartmentReport.jsx";
 import CreateDipartimentReport from "./components/headofdepartment/pages/CreateDipartimentReport.jsx";
-import Division_Layout from "./components/headofdivision/division_User_Layout.jsx";
+import Division_Layout from "./components/headofdivision/Division_User_Layout.jsx";
 import CreateDivisionReport from "./components/headofdivision/pages/CreateDivisionReport.jsx";
 import DivisionReport from "./components/headofdivision/pages/DivisionReport.jsx";
 import UpdateUser from "./components/admin/pages/UpdateUser.jsx";
